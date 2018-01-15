@@ -1,0 +1,19 @@
+Project : Reverse Image Lookup using Python and OpenCV
+
+Description : Our goal here is to build a personal image search engine. Given our dataset of vacation photos, we want to make this dataset “search-able” by creating a “more like this” functionality — this will be a “search by example” image search engine. For instance, if I submit a photo , our image search engine should be able to find and retrieve all similiar photos.
+
+Installation :
+
+1. Extract the zip file.
+2. Open terminal in the Reverse Image Lookup Directory
+
+Running the Source Code
+
+1. Run the following command in the terminal
+ 
+	-> python search.py --index index.csv --query queries/(your image name) --result-path dataset
+
+Results
+	-> It Will search out the best possible result and display it.
+
+
